@@ -1,1 +1,2 @@
-VSA = Vývoj softrvérových aplikácií
+VSA = Vï¿½voj softrvï¿½rovï¿½ch aplikï¿½ciï¿½
+uprava pre pull
