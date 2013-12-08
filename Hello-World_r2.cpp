@@ -7,5 +7,6 @@ void main(){
 	cout<<endl<<"Zadaj cislo b:"<<endl; cin >>ab;
 	c=a+b;
 	cout<<a<<" + "<<b<<" = "<<c<<endl;
+	cout<<"And this is it :)"<<endl;
 	system("pause");
 }
