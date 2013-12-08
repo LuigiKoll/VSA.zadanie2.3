@@ -1,0 +1,1 @@
+VSA = Vývoj softrvérových aplikácií
